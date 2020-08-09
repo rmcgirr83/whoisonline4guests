@@ -35,7 +35,7 @@ class listener implements EventSubscriberInterface
 	/** @var string phpEx */
 	protected $php_ext;
 
-    /**
+	/**
 	* Constructor for listener
 	*
 	* @param	 \phpbb\template\template	$template		Template object
