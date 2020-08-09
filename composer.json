@@ -1,0 +1,33 @@
+{
+    "name": "rmcgirr83/whoisonline4guests",
+    "type": "phpbb-extension",
+    "description": "This Extension will allow guests to view the who is online list on the index page and viewforum pages",
+    "version": "1.0.0",
+    "time": "2020-08-09",
+    "keywords": [
+        "phpbb",
+        "extension",
+        "birthday cake",
+        "communication"
+    ],
+    "license": "GPL-2.0-only",
+    "authors": [
+        {
+            "name": "Rich McGirr",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3",
+        "phpbb/phpbb": ">=3.2"
+    },
+    "require-dev": {
+        "phpbb/epv": "dev-master"
+    },
+    "extra": {
+        "display-name": "Who Is Online 4 Guests",
+        "soft-require": {
+            "phpbb/phpbb": ">=3.2"
+        }
+    }
+}
