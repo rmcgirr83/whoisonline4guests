@@ -3,7 +3,6 @@ Who Is Online 4 Guests
 
 This Extension will allow guests to view the who is online list on the index page and viewforum pages
 
-[![Build Status](https://travis-ci.com/rmcgirr83/whoisonline4guests.svg?branch=master)](https://travis-ci.com/rmcgirr83/whoisonline4guests)
 ## Installation
 
 ### 1. clone
